@@ -12,7 +12,7 @@ Requirements for the experiment:
 - [MATLAB v2018a](https://www.mathworks.com/products/matlab.html) - Header creation and experiment configuration are all done through MatLab. 
 - [Python 2.7](https://www.python.org/downloads/release/python-2718/) - Python 2 is used to label data from Unity trials. Python isn't strictly necessary to run the experiment.
 - [Psych Toolbox](http://psychtoolbox.org/) - Used to run some of the experiment tasks. 
-- [Statistics and Machine Learning Toolbox]() - Used to create the header in MatLab. 
+- [Statistics and Machine Learning Toolbox](https://www.mathworks.com/products/statistics.html) - Used to create the header in MatLab. 
 
 Though the software is largely built in Unity, to interact with this repository you will only need to use MATLAB, Python, and Psych Toolbox. The Unity build that is in this repository was tested on 13'' Macbook Airs using **MacOS Sierra** (10.12.6) and **El Capitan** (v10.11.6) with a display resolution of 1440x900. 
 
