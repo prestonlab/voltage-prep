@@ -137,7 +137,7 @@ Hit `Play` to begin.
 In `MATLAB`, load the second detection task as follows: 
 
 ```
-voltage_disp(hdr, ‘disp’, [session#], 2, [run#])
+voltage_disp(hdr, "disp", [session#], 2, [run#])
 ```
 
 The participant will be completing four runs of this task. Below, the `1` represents the first round of the detection task. For `run #`, you’ll have to input `1-4` as they move through the runs. `Session#` should be `1` (for the first non-practice session) or `2` (for the second non-practice session).
