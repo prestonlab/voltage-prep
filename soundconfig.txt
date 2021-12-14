@@ -1,0 +1,7 @@
+0.66
+1.0
+0.33
+
+Line 1: Min wait time, float, seconds
+Line 2: Max wait time, float, seconds
+Line 3: Duration of blink, float, seconds
