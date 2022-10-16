@@ -1,5 +1,5 @@
 # Voltage
-[Short description] Voltage is a virtual world paradigm built in Unity to help test spatial perception and navigation ability in human ECoG participants.
+Voltage is a virtual object location task used to measure cognitive map formation in human ECoG patients as they learn and remember the locations of objects in naturalistic environments.
 
 
 ## Getting Started - Prebuilt
